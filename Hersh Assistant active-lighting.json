@@ -1,0 +1,18 @@
+{
+	"ModelLoadTrigger":7,
+	"ModelLoadSource":1,
+	"ModelRemixAssetId":"",
+	"PaintSessionId":null,
+	"ModelId":"zHmdnbnyr9CL9zz1tdsyIeDGzloc8dY9gz9QQU/rl5VGf9+RJoPeuorBbE3VxNIK/QZwRdGbcWte01okJsqS6w==",
+	"ModelName":"Hersh Assistant.stl",
+	"ModelInstanceId":"b97810a7-bb00-437f-ad13-e707c3628d4e",
+	"IsModelPrintable":true,
+	"IsModelPaintable":true,
+	"IsMinecraftModel":true,
+	"IsModelAnimated":true,
+	"TriangleCount":14173,
+	"Light 1": #FF9000,
+	"Light 2": #546AFF,
+	"Light 3": #000000,
+	"Environment": #514493
+}
